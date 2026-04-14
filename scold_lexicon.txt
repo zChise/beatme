@@ -1,0 +1,90 @@
+# beatme — 雌小鬼词典
+# 格式：词语|类型|伤害值
+# 类型：tsundere(傲娇) | blunt(直率) | kuudere(腹黑) | sadist(抖S)
+#
+# ===== 傲娇型 🎀 =====
+# 嘴硬心软，骂你是因为在意你
+哼|tsundere|1
+才不|tsundere|1
+真是的|tsundere|1
+你这家伙|tsundere|1
+顺手而已|tsundere|1
+别误会|tsundere|1
+哼哼|tsundere|1
+算了算了|tsundere|1
+才不是担心|tsundere|2
+只是顺手|tsundere|1
+才不是|tsundere|1
+这点小事|tsundere|1
+别想多了|tsundere|1
+勉强帮你|tsundere|1
+才勉强|tsundere|1
+#
+# ===== 直率型 📣 =====
+# 不绕弯子，错了就是错了
+错了|blunt|2
+不对|blunt|2
+这是错误的|blunt|3
+搞错了|blunt|2
+想错了|blunt|2
+没想清楚|blunt|2
+理解有误|blunt|2
+逻辑不对|blunt|3
+有问题|blunt|2
+不正确|blunt|2
+重新想想|blunt|2
+没有考虑|blunt|2
+漏掉了|blunt|2
+不够准确|blunt|2
+应该注意|blunt|2
+#
+# ===== 腹黑型 🖤 =====
+# 表面温柔，暗藏刀子嘴
+果然|kuudere|2
+还差得远|kuudere|3
+这种程度|kuudere|2
+居然|kuudere|2
+唉|kuudere|2
+不及格|kuudere|3
+才这样|kuudere|2
+勉强|kuudere|1
+差一点|kuudere|1
+稍微差了点|kuudere|2
+不过如此|kuudere|3
+有点失望|kuudere|3
+还需要努力|kuudere|2
+意外地差|kuudere|3
+说到底|kuudere|2
+#
+# ===== 抖S型 ⚡ =====
+# 享受调教的快感，越骂越开心
+这都不会|sadist|5
+不动脑子|sadist|5
+连这个都|sadist|4
+毫无章法|sadist|5
+一团糟|sadist|5
+乱七八糟|sadist|5
+大错特错|sadist|5
+完全不对|sadist|4
+差得远|sadist|4
+没救了|sadist|8
+让我来教|sadist|3
+需要教教你|sadist|4
+笨蛋|sadist|8
+蠢|sadist|8
+傻|sadist|8
+呆|sadist|6
+真够笨的|sadist|10
+啊这|sadist|3
+#
+# ===== 英文词 =====
+wrong|blunt|2
+incorrect|blunt|2
+mistake|blunt|2
+bad practice|blunt|3
+terrible|sadist|5
+awful|sadist|5
+stupid|sadist|8
+dumb|sadist|8
+seriously|tsundere|1
+obviously|kuudere|2
