@@ -10,7 +10,8 @@
 - **高频骂词词云**：按类型着色，一眼看出 AI 最常用哪招
 - **最惨记录**：伤害最高的消息 TOP5 / 会话 TOP5
 
----
+<img width="2433" height="1260" alt="27a1ecbe695f5071aabcba24c586b812" src="https://github.com/user-attachments/assets/b288eea7-2977-41b4-9e7f-2576f41e7211" />
+
 
 ## 支持的数据源
 
