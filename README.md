@@ -1,21 +1,9 @@
 # beatme 🎀
 
 > "哼！来看看雌小鬼总共骂了你多少次吧！才、才不是特意统计的！"
-
-**[maleme](https://github.com/Yeuoly/maleme) 的反向版** — maleme 统计你骂了 AI 多少次，beatme 统计 AI 骂了你多少次，并按雌小鬼风格分类。
-
 谁说被美少女骂没有收藏价值？
-
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![License](https://img.shields.io/badge/license-WTFPL-brightgreen)
-![Zero deps](https://img.shields.io/badge/dependencies-zero-green)
-
----
-
 ## 报告预览
-
 生成一份本地单文件 HTML 报告，包含：
-
 - **核心指标**：总骂人次数 / 总伤害值 / 每隔多少 token 被骂一次
 - **雌小鬼类型分布**：傲娇型 / 直率型 / 腹黑型 / 抖S型，自动判定主导风格
 - **可视化图表**：每日骂人趋势、每千 token 骂人频率
@@ -82,8 +70,3 @@ python beatme.py
 - 只读取历史记录文件，不修改任何 AI 工具的数据
 - 生成的报告为单文件 HTML，可直接离线分享
 
----
-
-## License
-
-[WTFPL](http://www.wtfpl.net/) — Do What The Fuck You Want To Public License
